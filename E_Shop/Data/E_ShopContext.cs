@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using DA_TotNghiep.Models;
+
 using E_Shop_DATN.Models;
 
 namespace E_Shop.Data
@@ -15,9 +15,9 @@ namespace E_Shop.Data
         {
         }
 
-        public DbSet<DA_TotNghiep.Models.Admin>? Admin { get; set; }
+        public DbSet<E_Shop_DATN.Models.Admin>? Admin { get; set; }
 
-        public DbSet<DA_TotNghiep.Models.Product>? Product { get; set; }
+        public DbSet<E_Shop_DATN.Models.Product>? Product { get; set; }
 
         public DbSet<E_Shop_DATN.Models.Log>? Log { get; set; }
 
