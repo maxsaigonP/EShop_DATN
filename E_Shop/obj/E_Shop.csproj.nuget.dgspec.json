@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BAO PHUC- PC\\OneDrive\\Desktop\\E_Shop\\E_Shop\\E_Shop.csproj": {}
+    "D:\\do_an_tot_nghiep\\Eshop_DATN\\E_Shop\\E_Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BAO PHUC- PC\\OneDrive\\Desktop\\E_Shop\\E_Shop\\E_Shop.csproj": {
+    "D:\\do_an_tot_nghiep\\Eshop_DATN\\E_Shop\\E_Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BAO PHUC- PC\\OneDrive\\Desktop\\E_Shop\\E_Shop\\E_Shop.csproj",
+        "projectUniqueName": "D:\\do_an_tot_nghiep\\Eshop_DATN\\E_Shop\\E_Shop.csproj",
         "projectName": "E_Shop",
-        "projectPath": "C:\\Users\\BAO PHUC- PC\\OneDrive\\Desktop\\E_Shop\\E_Shop\\E_Shop.csproj",
-        "packagesPath": "C:\\Users\\BAO PHUC- PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BAO PHUC- PC\\OneDrive\\Desktop\\E_Shop\\E_Shop\\obj\\",
+        "projectPath": "D:\\do_an_tot_nghiep\\Eshop_DATN\\E_Shop\\E_Shop.csproj",
+        "packagesPath": "C:\\Users\\trann\\.nuget\\packages\\",
+        "outputPath": "D:\\do_an_tot_nghiep\\Eshop_DATN\\E_Shop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BAO PHUC- PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\trann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -77,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
