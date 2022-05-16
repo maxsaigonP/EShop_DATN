@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 
-namespace DA_TotNghiep.Models
+namespace E_Shop_DATN.Models
 {
     public class Images
     {
