@@ -8,137 +8,137 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_Shop
 build_property.RootNamespace = E_Shop
-build_property.ProjectDir = D:\do_an_tot_nghiep\Eshop_DATN\E_Shop\
+build_property.ProjectDir = C:\Users\BAO PHUC- PC\OneDrive\Desktop\E_Shop\E_Shop\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\do_an_tot_nghiep\Eshop_DATN\E_Shop
+build_property.MSBuildProjectDirectory = C:\Users\BAO PHUC- PC\OneDrive\Desktop\E_Shop\E_Shop
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Admins/Create.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Admins/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Admins/Delete.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Admins/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Admins/Details.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Admins/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Admins/Edit.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Admins/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Admins/Index.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Admins/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Home/Index.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Home/Privacy.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportecInvoiceDetails/Create.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportecInvoiceDetails/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWNJbnZvaWNlRGV0YWlsc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportecInvoiceDetails/Delete.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportecInvoiceDetails/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWNJbnZvaWNlRGV0YWlsc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportecInvoiceDetails/Details.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportecInvoiceDetails/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWNJbnZvaWNlRGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportecInvoiceDetails/Edit.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportecInvoiceDetails/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWNJbnZvaWNlRGV0YWlsc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportecInvoiceDetails/Index.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportecInvoiceDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWNJbnZvaWNlRGV0YWlsc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportedInvoices/Create.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportedInvoices/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWRJbnZvaWNlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportedInvoices/Delete.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportedInvoices/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWRJbnZvaWNlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportedInvoices/Details.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportedInvoices/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWRJbnZvaWNlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportedInvoices/Edit.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportedInvoices/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWRJbnZvaWNlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/ImportedInvoices/Index.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/ImportedInvoices/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0ZWRJbnZvaWNlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Logs/Create.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Logs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Logs/Delete.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Logs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Logs/Details.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Logs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Logs/Edit.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Logs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Logs/Index.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Logs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Products/Create.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Products/Delete.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Products/Details.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Products/Edit.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Products/Index.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Shared/Error.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/_ViewImports.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/_ViewStart.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/do_an_tot_nghiep/Eshop_DATN/E_Shop/Views/Shared/_Layout.cshtml]
+[C:/Users/BAO PHUC- PC/OneDrive/Desktop/E_Shop/E_Shop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jqec0spq41

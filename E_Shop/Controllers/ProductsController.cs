@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using DA_TotNghiep.Models;
+
 using E_Shop.Data;
+using E_Shop_DATN.Models;
 
 namespace E_Shop.Controllers
 {
