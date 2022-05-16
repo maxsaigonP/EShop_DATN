@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace E_Shop_DATN.Models
 {
-    public class Admin
+    public class Admins
     {
         public int Id { get; set; }
 

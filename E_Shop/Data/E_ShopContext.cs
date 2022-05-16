@@ -15,7 +15,7 @@ namespace E_Shop.Data
         {
         }
 
-        public DbSet<E_Shop_DATN.Models.Admin>? Admin { get; set; }
+        public DbSet<E_Shop_DATN.Models.Admins>? Admin { get; set; }
 
         public DbSet<E_Shop_DATN.Models.Product>? Product { get; set; }
 
@@ -24,5 +24,7 @@ namespace E_Shop.Data
         public DbSet<E_Shop_DATN.Models.ImportedInvoice>? ImportedInvoice { get; set; }
 
         public DbSet<E_Shop_DATN.Models.ImportecInvoiceDetail>? ImportecInvoiceDetail { get; set; }
+
+        public DbSet<E_Shop_DATN.Models.User>? User { get; set; }
     }
 }

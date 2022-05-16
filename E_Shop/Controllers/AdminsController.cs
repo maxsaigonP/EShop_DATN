@@ -57,7 +57,7 @@ namespace E_Shop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Username,Password,Email,Phone,Avatar,IsAdmin,Status")] Admin admin)
+        public async Task<IActionResult> Create([Bind("Id,Name,Username,Password,Email,Phone,Avatar,IsAdmin,Status")] Admins admin)
         {
             if (ModelState.IsValid)
             {
@@ -89,7 +89,7 @@ namespace E_Shop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Username,Password,Email,Phone,Avatar,IsAdmin,Status")] Admin admin)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Username,Password,Email,Phone,Avatar,IsAdmin,Status")] Admins admin)
         {
             if (id != admin.Id)
             {
