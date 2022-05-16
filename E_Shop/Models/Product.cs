@@ -24,6 +24,8 @@ namespace E_Shop_DATN.Models
         [DisplayName("Giá tiền (VNĐ)")]
         [DisplayFormat(DataFormatString = "{0:#,##0} VNĐ")]
         public int Price { get; set; }
+
+        public int? SalePrice { get; set; }
         [DisplayName("Số lượng")]
         public int Quantily { get; set; }
 
