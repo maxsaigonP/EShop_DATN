@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 
-namespace DA_TotNghiep.Models
+namespace E_Shop_DATN.Models
 {
     public class User
     {
