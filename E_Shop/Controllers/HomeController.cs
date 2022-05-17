@@ -17,6 +17,10 @@ namespace E_Shop.Controllers
         {
             return View();
         }
+        public IActionResult ProductDetail()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
