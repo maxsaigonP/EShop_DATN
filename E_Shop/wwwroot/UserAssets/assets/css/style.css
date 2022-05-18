@@ -533,7 +533,7 @@ input {
             Header css
 ---------------------------------*/
 header {
-  background-color: white;
+    background-color: #252525;
 }
 header .header-top {
   border-bottom: 1px solid #454545;
